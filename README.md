@@ -63,7 +63,7 @@ Overall Ripple and XRP show great promise and does have a solution for a very se
 It should still be noted that Ripple is a very controversial company due to their current case with the 
 SEC and the fact that they hold so much of the XRP token as mentioned earlier. Many people in the cryptocurrency
 community criticize Ripple for being centralized due to the fact they hold so much XRP tokens,
-which some may say goes against the whole decentralization that cryptocurrency tries to promote.
+which some may say goes against the whole concept of decentralization that cryptocurrency community strongly believes in.
 
 Nevertheless, we can not ignore the fact that Ripple has a very clear goal and is very focused on achieving their goal.
 They also have a good product that works, and they have a solution for a very serious problem, which shows 
