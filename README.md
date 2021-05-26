@@ -71,7 +71,7 @@ they have good promise and potential to succeed.
 
 ## Resources
 
-https://en.wikipedia.org/wiki/Ripple_(payment_protocol) -- General Info ---
+https://en.wikipedia.org/wiki/Ripple_(payment_protocol) -- General Info <br/>
 https://ripple.com/ -- General Info
 https://www.youtube.com/watch?v=VSRomZboFVQ -- YouTube video explaining RippleNet Protocol and XRP
 https://www.youtube.com/watch?v=23Yn5GdYpJc&t=486s -- YouTube documentary explaining how Ripple can succeed and how they are competition to SWIFT
