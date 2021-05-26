@@ -52,7 +52,7 @@ Ripple continues to work with governments to comply with regulations.
 
 ## Results
 
-As of recently, Ripple has many banks and instituitions using their product and the XRP token has grown significantly
+As of recently, Ripple has many banks and instituitions using their products and the XRP token has grown significantly
 in value. However, they are facing some serious charges with the SEC, and as a result the XRP token has
 been removed from several exchanges, including Coinbase and Binance US. Even with this allegations, 
 many people especially in the XRP community have hope that Ripple will make it through this case. 
