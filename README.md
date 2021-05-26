@@ -6,10 +6,10 @@ and built by Arthur Britto and David Schwartz (current Cheif Technology Officer)
 It was then released in 2012 and by 2013 they claimed that many banks were interested in the project. 
 Currently over 300 financial instituitions are using RippleNet, including Bank of America, 
 Satander Bank, and American Express. 
-They have had $150 million plus donations since 2018 (Ripple.com). 
-They also have investors from capital firms and strategic investors (ripple.com).
+They have had $150 million plus donations since 2018. 
+They also have investors from capital firms and strategic investors.
 However, many people argue that their main source of income comes from the XRP token, since ripple owns
-about 50% of the cryptocurrency XRP. (https://www.cryptoeq.io/coreReports/XRP-abridged).
+about 50% of the cryptocurrency XRP.
 
 
 
@@ -17,7 +17,7 @@ about 50% of the cryptocurrency XRP. (https://www.cryptoeq.io/coreReports/XRP-ab
 
 Ripple is trying to solve a major problem in the space of finance right now. International payments
 currently are very slow and costly. Most payments go through SWIFT, a messaging network used by banks
-to transfer information, such as money transfer instructions(https://www.investopedia.com/articles/personal-finance/050515/how-swift-system-works.asp). 
+to transfer information, such as money transfer instructions. 
 Payments that go through SWIFT often have to go through multiple banks because of the many different 
 currencies involved. 
 For example, if buisness A wants to send YEN to buisness B, which uses
@@ -28,7 +28,7 @@ These payments also take several days to settle, which means more time wasted an
 are not settled for whatever reason, they can be reversed or cancelled. 
 
 Ripple offers to solved this problem with their RippleNet protocol and their cryptocurrency XRP. RippleNet 
-allows banks to transform information much quicker and cheaper than SWIFT. They also allow banks
+allows banks to transfer information much quicker and cheaper than SWIFT. They also allow banks
 to issue IOU's to each other. An IOU is simply a debt that one bank owes to another. However, the real 
 magic happens with the XRP token. With XRP, banks can now transfer value and settle transactions in real
 time and at very low costs, as opposed to SWIFT which can take days to settle transactions and is very 
