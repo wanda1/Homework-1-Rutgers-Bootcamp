@@ -33,7 +33,7 @@ to issue IOU's to each other. An IOU is simply a debt that one bank owes to anot
 magic happens with the XRP token. With XRP, banks can now transfer value and settle transactions in real
 time and at very low costs, as opposed to SWIFT which can take days to settle transactions and is very 
 costly. XRP can process over 1000 transactions per second and only costing fractions of a penny, as 
-compared to Bitcoin which can only process about 8 tranactions per second and ETH which can only process
+compared to other cryptocurrencies such as Bitcoin, which can only process about 8 tranactions per second and ETH which can only process
 about 16 per second (currently ETH fees are ridiculous, some transactions costing over $100 in fees!). 
 This makes XRP one of the fastest and cheapest to use tokens in the cryptocurrency market, also making
 it the most optimal for the specific use case of transferring payments.
