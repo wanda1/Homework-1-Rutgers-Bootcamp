@@ -5,7 +5,7 @@ It was first thought of by Jeb McCaleb and built by Arthur Britto and David Schw
 in 2012 and by 2013 they claimed that many banks were interested in the project. Currently over 300 financial institutions are using RippleNet, 
 including Bank of America, Santander Bank, and American Express. They have had $150 million plus donations since 2018. They also have investors from 
 capital firms and strategic investors. However, many people argue that their main source of income comes from the XRP token, since Ripple owns about 
-50% of the cryptocurrency XRP.
+50% of the cryptocurrency.
 
 
 
