@@ -74,8 +74,8 @@ they have good promise and potential to succeed.
 [General Info, Wikipedia Page](https://en.wikipedia.org/wiki/Ripple_(payment_protocol)) <br/>
 [General Info, Ripples website](https://ripple.com/) <br/>
 [YouTube video explaining RippleNet Protocol and XRP](https://www.youtube.com/watch?v=VSRomZboFVQ) <br/>
-[YouTube documentary explaining how Ripple can succeed and how they are competition to SWIFT](https://youtu.be/23Yn5GdYpJc) <br/>
 [Another YouTube video explaining RippleNet and XRP, also explaining how SWIFT works and its flaws](https://youtu.be/UmaWDpg4fMU) <br/>
+[YouTube documentary explaining how Ripple can succeed and how they are competition to SWIFT](https://youtu.be/23Yn5GdYpJc) <br/>
 [Investopedia page explaining SWIFT in greater detail](https://www.investopedia.com/articles/personal-finance/050515/how-swift-system-works.asp) <br/>
 [The SEC case invloving Ripple](https://www.sec.gov/news/press-release/2020-338) <br/>
 [General overview of XRP token, with Pros and Cons](https://www.cryptoeq.io/coreReports/XRP-abridged)
