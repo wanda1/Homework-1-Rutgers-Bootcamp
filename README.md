@@ -72,11 +72,11 @@ they have good promise and potential to succeed.
 ## Resources
 
 https://en.wikipedia.org/wiki/Ripple_(payment_protocol) -- General Info <br/>
-https://ripple.com/ -- General Info
-https://www.youtube.com/watch?v=VSRomZboFVQ -- YouTube video explaining RippleNet Protocol and XRP
-https://www.youtube.com/watch?v=23Yn5GdYpJc&t=486s -- YouTube documentary explaining how Ripple can succeed and how they are competition to SWIFT
-https://www.youtube.com/watch?v=wPHmp4Cpoik -- YouTube video explaining what is SWIFT and how SWIFT works
-https://www.youtube.com/watch?v=UmaWDpg4fMU&t=719s -- Another YouTube video explaining RippleNet and XRP, also explaining how SWIFT works and its flaws
-https://www.investopedia.com/articles/personal-finance/050515/how-swift-system-works.asp -- Webpage explaining SWIFT in greater detail
-https://www.sec.gov/news/press-release/2020-338 -- the SEC case invloving Ripple
+https://ripple.com/ -- General Info <br/>
+https://www.youtube.com/watch?v=VSRomZboFVQ -- YouTube video explaining RippleNet Protocol and XRP <br/>
+https://www.youtube.com/watch?v=23Yn5GdYpJc&t=486s -- YouTube documentary explaining how Ripple can succeed and how they are competition to SWIFT <br/>
+https://www.youtube.com/watch?v=wPHmp4Cpoik -- YouTube video explaining what is SWIFT and how SWIFT works <br/>
+https://www.youtube.com/watch?v=UmaWDpg4fMU&t=719s -- Another YouTube video explaining RippleNet and XRP, also explaining how SWIFT works and its flaws <br/>
+https://www.investopedia.com/articles/personal-finance/050515/how-swift-system-works.asp -- Webpage explaining SWIFT in greater detail <br/>
+https://www.sec.gov/news/press-release/2020-338 -- the SEC case invloving Ripple <br/>
 https://www.cryptoeq.io/coreReports/XRP-abridged -- General overview of XRP token, with Pros and Cons
