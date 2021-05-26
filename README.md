@@ -39,7 +39,8 @@ This makes XRP one of the fastest and cheapest to use tokens in the cryptocurren
 it the most optimal for the specific use case of transferring payments.
 With the XRP token, banks can simply convert their currency to XRP, send that XRP to the destination
 bank or instituion, and that buisness can convert XRP to their native currency, making it much simpler
-and smoother than the process used in SWIFT. 
+and smoother than the process used in SWIFT. Since XRP transfers happen within seconds, banks do not have to worry about the volitility of the token
+since they can quickly recieve and convert the token to whichever currency need, as soon as they recieve the tokens.
 
 As smooth as that sounds, there was an issue however with the XRP token and these instuitions.
 In the past, instituions that wanted to use this system had to hold the XRP token, however this harmed 
