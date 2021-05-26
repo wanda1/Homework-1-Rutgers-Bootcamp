@@ -13,11 +13,13 @@ capital firms and strategic investors. However, many people argue that their mai
 
 Ripple is trying to solve a major problem in the space of finance right now. International payments currently are very slow and costly. 
 Most payments go through SWIFT, a messaging network used by banks to transfer information, such as money transfer instructions. Payments 
-that go through SWIFT often have to go through multiple banks because of the many different currencies involved. For example, if business 
-A wants to send YEN to business B, which uses Mexican PESOS, the YEN will have to be converted through multiple banks in search of currency 
-conversions (because most likely business A with YEN does not have Mexican PESOS and vice versa)
-which costs money in fees and time. These payments also take several days to settle, which means more time wasted and if the payments 
-are not settled for whatever reason, they can be reversed or cancelled.
+that go through SWIFT often have to go through multiple banks because of the many different currencies involved. For example, lets say business 
+A is a chinese company and they want to send their native currency YUAN to business B, which is a mexican company that uses Mexican PESOS. The YUAN will 
+have to be converted through multiple banks in search of currency conversions (because most likely business A with YUAN does not have Mexican PESOS and 
+vice versa, and the banks in between them most likely do not have both YUAN and Mexican PESOS). This whole process costs money in fees, goes through many 
+intermediary banks, and takes much time to complete the transaction. These payments can take several days to settle, so even if the credit shows on their bank
+account, the credit is not valid until the tranaction is settled. If the payment is not settled for whatever reason the transaction can be reversed or 
+cancelled (this happens to 7% of all SWIFT transactions). This process shows that there is some risk involved when using SWIFT.
 
 Ripple offers to solve this problem with their RippleNet protocol and their cryptocurrency XRP. RippleNet allows banks to transfer information 
 much quicker and cheaper than SWIFT. They also allow banks to issue IOU's to each other. An IOU is simply a debt that one bank owes to another. 
@@ -25,8 +27,8 @@ However, the real magic happens with the XRP token. With XRP, banks can now tran
 as opposed to SWIFT which can take days to settle transactions and is very costly. XRP can process over 1000 transactions per second and only costing 
 fractions of a penny, as compared to other cryptocurrencies such as Bitcoin, which can only process about 8 transactions per second and ETH which can 
 only process about 16 per second (currently ETH fees are ridiculous, some transactions costing over $100 in fees!). This makes XRP one of the fastest 
-and cheapest to use tokens in the cryptocurrency market, also making it the most optimal for the specific use case of transferring payments. With the 
-XRP token, banks can simply convert their currency to XRP, send that XRP to the destination bank or institution, and that business can convert XRP to 
+and cheapest to use tokens in the cryptocurrency market, also making it the most optimal cryptocurrency for the specific use case of transferring payments. 
+With the XRP token, banks can simply convert their currency to XRP, send that XRP to the destination bank or institution, and that business can convert XRP to 
 their native currency, making it much simpler and smoother than the process used in SWIFT. Since XRP transfers happen within seconds, banks do not have 
 to worry about the volatility of the token since they can quickly receive and convert the token to whichever currency they need, as soon as they receive 
 the token.
