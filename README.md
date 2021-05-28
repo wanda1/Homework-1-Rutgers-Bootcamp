@@ -7,7 +7,7 @@ including Bank of America, Santander Bank, and American Express. They have had $
 capital firms and strategic investors. However, many people argue that their main source of income comes from the XRP token, since Ripple owns about 
 50% of the cryptocurrency.
 
-
+![Ripple Image](https://newbium.s3.amazonaws.com/28ebb12420061053839.jpeg)
 
 ## Business Activities:
 
