@@ -39,8 +39,12 @@ with regulations.
 
 ## Landscape
 
+Ripple started off their company just using blockchain technology. Later on they decided to have their own cryptocurrency to improve their technology even further. 
+As of recently, they decided to take their technology a step further with smart contract technology. Recently Ripple announced they will be launching their Flare 
+network and Spark will be the native token. This will allow Ripplenet to be compatible with smart contract technology, adding capabilities to Ripplenet. The Flare 
+network will be on the Ethereum Virtual Machine (EVM), which is the most common platform to use for smart contract capabilities. 
 
-
+![Flare Network](https://academy.binance.com/_next/image?url=https%3A%2F%2Fimage.binance.vision%2Fuploads-original%2F33274af1b2244da1b81acbac59625cb4.png&w=1920&q=100)
 
 ## Results
 
@@ -66,3 +70,4 @@ a solution for a very serious problem, which shows they have good promise and po
 [Investopedia page explaining SWIFT in greater detail](https://www.investopedia.com/articles/personal-finance/050515/how-swift-system-works.asp) <br/>
 [The SEC case invloving Ripple](https://www.sec.gov/news/press-release/2020-338) <br/>
 [General overview of XRP token, with Pros and Cons](https://www.cryptoeq.io/coreReports/XRP-abridged)
+[What is the Flare Network?](https://academy.binance.com/en/articles/what-is-spark-flr-and-the-flare-network)
