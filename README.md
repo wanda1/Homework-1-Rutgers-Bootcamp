@@ -69,5 +69,5 @@ a solution for a very serious problem, which shows they have good promise and po
 [YouTube documentary explaining how Ripple can succeed and how they are competition to SWIFT](https://youtu.be/23Yn5GdYpJc) <br/>
 [Investopedia page explaining SWIFT in greater detail](https://www.investopedia.com/articles/personal-finance/050515/how-swift-system-works.asp) <br/>
 [The SEC case invloving Ripple](https://www.sec.gov/news/press-release/2020-338) <br/>
-[General overview of XRP token, with Pros and Cons](https://www.cryptoeq.io/coreReports/XRP-abridged)
+[General overview of XRP token, with Pros and Cons](https://www.cryptoeq.io/coreReports/XRP-abridged)<br/>
 [What is the Flare Network?](https://academy.binance.com/en/articles/what-is-spark-flr-and-the-flare-network)
