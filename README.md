@@ -17,8 +17,8 @@ that go through SWIFT often have to go through multiple banks because of the man
 A is a chinese company and they want to send their native currency YUAN to business B, which is a mexican company that uses Mexican PESOS. The YUAN will 
 have to be converted through multiple banks in search of currency conversions (because most likely business A with YUAN does not have Mexican PESOS and 
 vice versa, and the banks in between them most likely do not have both YUAN and Mexican PESOS). This whole process costs money in fees, goes through many 
-intermediary banks, and takes much time to complete the transaction. These payments can take several days to settle, so even if the credit shows on their bank
-account, the credit is not valid until the tranaction is settled. If the payment is not settled for whatever reason the transaction can be reversed or 
+intermediary banks, and takes much time to complete the transaction. These payments can take several days to settle, so even if the credit shows on the company's 
+bank account, the credit is not valid until the tranaction is settled. If the payment is not settled for whatever reason the transaction can be reversed or 
 cancelled (this happens to 7% of all SWIFT transactions). This process shows that there is some risk involved when using SWIFT.
 
 Ripple offers to solve this problem with their RippleNet protocol and their cryptocurrency XRP. RippleNet allows banks to transfer information 
