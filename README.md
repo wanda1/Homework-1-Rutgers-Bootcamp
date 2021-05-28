@@ -37,6 +37,8 @@ had to hold the XRP token, however this harmed institutions due to XRPs extreme 
 institutions to use the XRP token for transactions without holding any XRP in their balance sheets and Ripple continues to work with governments to comply 
 with regulations.
 
+##Landscape
+
 
 
 
