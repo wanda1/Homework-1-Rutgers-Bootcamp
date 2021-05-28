@@ -24,14 +24,13 @@ cancelled (this happens to 7% of all SWIFT transactions). This process shows tha
 Ripple offers to solve this problem with their RippleNet protocol and their cryptocurrency XRP. RippleNet allows banks to transfer information 
 much quicker and cheaper than SWIFT. They also allow banks to issue IOU's to each other. An IOU is simply a debt that one bank owes to another. 
 However, the real magic happens with the XRP token. With XRP, banks can now transfer value and settle transactions in real time and at very low costs, 
-as opposed to SWIFT which can take days to settle transactions and is very costly. XRP can process over 1000 transactions per second and only costing 
-fractions of a penny, as compared to other cryptocurrencies such as Bitcoin, which can only process about 8 transactions per second and ETH which can 
-only process about 16 per second (currently ETH fees are ridiculous, some transactions costing over $100 in fees!). This makes XRP one of the fastest 
-and cheapest to use tokens in the cryptocurrency market, also making it the most optimal cryptocurrency for the specific use case of transferring payments. 
-With the XRP token, banks can simply convert their currency to XRP, send that XRP to the destination bank or institution, and that business can convert XRP to 
-their native currency, making it much simpler and smoother than the process used in SWIFT. Since XRP transfers happen within seconds, banks do not have 
-to worry about the volatility of the token since they can quickly receive and convert the token to whichever currency they need, as soon as they receive 
-the token.
+as opposed to SWIFT. XRP can process over 1000 transactions per second and only costing fractions of a penny, as compared to other cryptocurrencies 
+such as Bitcoin, which can only process about 8 transactions per second and ETH which can only process about 16 per second (currently ETH fees are 
+ridiculous, some transactions costing over $100 in fees!). This makes XRP one of the fastest and cheapest to use tokens in the cryptocurrency market, 
+also making it the most optimal cryptocurrency for the specific use case of transferring payments. With the XRP token, banks can simply convert their 
+currency to XRP, send that XRP to the destination bank or institution, and that business can convert XRP to their native currency, making it much 
+simpler and smoother than the process used in SWIFT. Since XRP transfers happen within seconds, banks do not have to worry about the volatility of 
+the token since they can quickly receive and convert the token to whichever currency they need, as soon as they receive the token.
 
 As smooth as that sounds, there was an issue however with the XRP token and these institutions. In the past, institutions that wanted to use this system 
 had to hold the XRP token, however this harmed institutions due to XRPs extreme volatility and regulations issues. However, now Ripple allows these 
