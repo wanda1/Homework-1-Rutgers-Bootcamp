@@ -31,6 +31,7 @@ also making it the most optimal cryptocurrency for the specific use case of tran
 currency to XRP, send that XRP to the destination bank or institution, and that business can convert XRP to their native currency, making it much 
 simpler and smoother than the process used in SWIFT. Since XRP transfers happen within seconds, banks do not have to worry about the volatility of 
 the token since they can quickly receive and convert the token to whichever currency they need, as soon as they receive the token.
+![Ripple VS Swift](https://www.financemagnates.com/wp-content/uploads/2019/04/ripple-swift.jpg)
 
 As smooth as that sounds, there was an issue however with the XRP token and these institutions. In the past, institutions that wanted to use this system 
 had to hold the XRP token, however this harmed institutions due to XRPs extreme volatility and regulations issues. However, now Ripple allows these 
